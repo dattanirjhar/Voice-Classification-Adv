@@ -8,7 +8,7 @@
 
 This repository hosts a multiclass voice recognition project like the previous multiclass classification model, enabling the classification of audio input into several distinct categories. It leverages state-of-the-art machine learning techniques to accurately identify and categorize different voice commands or speech patterns. This project aims to provide a robust and efficient solution for applications such as voice-controlled systems, automated transcription services, and advanced audio analysis.
 
-Here we have used the previous model and tested it on the same audio sample by different singers.
+Here we have used the previous model and tested it on the same song sung by different singers.
 
 ## Features
 
@@ -118,10 +118,7 @@ The training process involves the following steps:
 
 The model's performance is evaluated using metrics such as:
 
-- **Accuracy**- 0.93
-- **Precision**- 0.93
-- **Recall**- 0.93
-- **F1-Score**- 0.93
+- **Accuracy**- 0.82
 
 Evaluation scripts are provided to assess the model's effectiveness on a test dataset.
 
