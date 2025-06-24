@@ -1,4 +1,4 @@
-# Multiclass Voice Recognition V2
+# Voice Classification Advanced Model
 
 [![GitHub Issues](https://img.shields.io/github/issues/dattanirjhar/multiclass-voice-recog)](https://github.com/dattanirjhar/multiclass-voice-recog/issues)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
